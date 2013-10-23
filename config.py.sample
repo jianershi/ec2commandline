@@ -1,0 +1,5 @@
+ec2_key_name=""
+ec2_region=""
+ec2_placement=""
+ec2_security_group_ids=""
+ec2_prefered_ami=""
