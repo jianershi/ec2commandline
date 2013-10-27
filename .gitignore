@@ -1,0 +1,4 @@
+credentials.py
+config.py
+*.pyc
+ev
